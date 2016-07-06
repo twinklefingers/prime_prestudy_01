@@ -1,3 +1,5 @@
-/* omg how do you start a js file?? */
+function printToConsole(x) {
+  console.log(x);
+}
 
-console.log("Hey this works!")
+printToConsole("Hey this works!");
